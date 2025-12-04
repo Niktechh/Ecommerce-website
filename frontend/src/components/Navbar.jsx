@@ -41,7 +41,7 @@ const Navbar = () => {
         </NavLink>
        
         <button
-  onClick={() => window.location.href = "http://localhost:5174/"}
+  onClick={() => window.location.href = "https://dukkan-adminpannel.vercel.app/"}
   className="bg-black text-white px-4 py-2"
 >
   Admin Panel
